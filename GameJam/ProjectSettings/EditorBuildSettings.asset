@@ -5,7 +5,58 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 503b4c4dace38bd4a9bcbd08e1d2c561
+  - enabled: 1
+    path: Assets/Scenes/CorrectScene.unity
+    guid: 9f77477b17bcaa44f9da344c90fe8373
+  - enabled: 1
+    path: Assets/Scenes/IncorrectScene.unity
+    guid: 1b996111c2e0f7c4697b41df8c8989ea
+  - enabled: 1
+    path: Assets/Scenes/InstructionScreen.unity
+    guid: 85a1bda6f5690f1488005eac6fb2240d
+  - enabled: 1
+    path: Assets/Scenes/Q1Scene.unity
+    guid: 9037592d64c3005499ec8523ba321f17
+  - enabled: 1
+    path: Assets/Scenes/Q2Scene.unity
+    guid: 02c04f8c9562a624a990f5425d3251b9
+  - enabled: 1
+    path: Assets/Scenes/Q3Scene.unity
+    guid: 972aa2be869c18744bfd2889e5b54489
+  - enabled: 1
+    path: Assets/Scenes/Q4Scene.unity
+    guid: 79e247d058f1d7245ac3bf4e941899c9
+  - enabled: 1
+    path: Assets/Scenes/Q5Scene.unity
+    guid: 1fb76cabf94edd641af0882823fb3646
+  - enabled: 1
+    path: Assets/Scenes/Q6Scene.unity
+    guid: 96885462abd9f2a438b41331c000b75b
+  - enabled: 1
+    path: Assets/Scenes/Q7Scene.unity
+    guid: 9950dfbb1dfac4d4ba826a1b9d9088ec
+  - enabled: 1
+    path: Assets/Scenes/Q8Scene.unity
+    guid: 138be5717a70208459281c9fe8a47b7a
+  - enabled: 1
+    path: Assets/Scenes/Q9Scene.unity
+    guid: 4110e76635c97814dbbed0cea572daa0
+  - enabled: 1
+    path: Assets/Scenes/Q10Scene.unity
+    guid: 06028122f86993f439134416edcfdb63
+  - enabled: 1
+    path: Assets/Scenes/IncorrectScene2.unity
+    guid: 4e93340991c69c341ae70dfa131a92ad
+  - enabled: 1
+    path: Assets/Scenes/IncorrectScene3.unity
+    guid: 4904b6ce8051c3845ab0a7ecfa36691e
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 96ad6713b9f37ff4b89f57c24a632210
   m_configObjects: {}
